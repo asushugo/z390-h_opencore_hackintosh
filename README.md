@@ -3,7 +3,9 @@
 
 Big Sur需要OpenCore 0.6.3，系统更新前请先更新EFI。
 
-![image-20201126234047487](img1.png)
+![img1.png](img/img1.png)
+
+![img2.png](img/img2.png)
 
 ## 注意事项
 1. 在Clover和OpenCore之间切换时请清除NVRAM。
@@ -15,6 +17,6 @@ Big Sur需要OpenCore 0.6.3，系统更新前请先更新EFI。
 | 主板 | 华硕 | Z390-H | | |
 | 处理器 | 英特尔 | i9-9900k（我用的是es版本的） |  | |
 | 内存 | 酷兽 | 32GB DDR4 3200 |  | 2666超频到3200 |
-| 核芯显卡 | 英特尔 | UHD630 | 免驱 | Headless模式 |
+| 核芯显卡 | 英特尔 | UHD 630 | 免驱 | Headless模式 |
 | 独立显卡 |  | RX 580 | 免驱 | 2304流处理器 |
 
